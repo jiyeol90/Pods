@@ -153,7 +153,7 @@ extension EditProfileViewController: ProfileImgManagerDelegate {
     }
     
     func didNotUpdateProfileImg() {
-        print("프로필 업데이프 실패??")
+        print("프로필 업데이프 실패????")
     }
     
     
